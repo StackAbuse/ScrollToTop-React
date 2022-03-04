@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.section{
+  height: 1000px;
+  width: 100%;
+}
+
+.section1{
+  background-color: burlywood;
+}
+.section2{
+  background-color: aquamarine;
+}
+.section3{
+  background-color: aqua;
+}
+.section4{
+  background-color: antiquewhite;
+}
+.section5{
+  background-color: darkgoldenrod;
+}
